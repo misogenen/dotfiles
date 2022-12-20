@@ -1,0 +1,1 @@
+/home/ubuntu2204/GitHub/repos/dotfiles/.vim
