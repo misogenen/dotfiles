@@ -16,3 +16,6 @@
 [submodule ".vim/pack/plugins/start/nvim-yarp"]
 	path = .vim/pack/plugins/start/nvim-yarp
 	url = https://github.com/roxma/nvim-yarp.git
+[submodule ".vim/pack/plugins/start/neco-vim"]
+	path = .vim/pack/plugins/start/neco-vim
+	url = https://github.com/Shougo/neco-vim.git
