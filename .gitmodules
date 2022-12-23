@@ -19,3 +19,12 @@
 [submodule ".vim/pack/plugins/start/neco-vim"]
 	path = .vim/pack/plugins/start/neco-vim
 	url = https://github.com/Shougo/neco-vim.git
+[submodule ".config/nvim/pack/plugins/start/vim-airline"]
+	path = .config/nvim/pack/plugins/start/vim-airline
+	url = https://github.com/vim-airline/vim-airline.git
+[submodule ".config/nvim/pack/plugins/start/vim-airline-themes"]
+	path = .config/nvim/pack/plugins/start/vim-airline-themes
+	url = https://github.com/vim-airline/vim-airline-themes.git
+[submodule ".config/nvim/pack/plugins/start/coc.nvim"]
+	path = .config/nvim/pack/plugins/start/coc.nvim
+	url = https://github.com/neoclide/coc.nvim.git
